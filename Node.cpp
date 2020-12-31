@@ -1,5 +1,4 @@
 // Devinee Amin
-// dpa180001
 
 #include "Node.h"
 #include <cmath>
