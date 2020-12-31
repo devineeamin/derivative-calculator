@@ -114,7 +114,6 @@ void LList::sort()
                 if(startPtr != startPrev)
                     startPrev->setNext(maxPtr);
             }
-
         }
         startPtr = startNext;
     }
