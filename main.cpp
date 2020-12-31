@@ -1,8 +1,5 @@
-/*
-    Devinee Amin
-    dpa180001
-    Project 4: Reads equations from a file and calculates the derivative of each
-*/
+// Devinee Amin
+// Reads equations from a file and calculates the derivative of each
 
 #include "LList.h"
 #include "Node.h"
